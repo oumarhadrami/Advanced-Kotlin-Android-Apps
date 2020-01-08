@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="fui_error_weak_password"> <item quantity="one">Zaporka nije dovoljno jaka. Upotrijebite najmanje %1$d znak i koristite kombinaciju slova i znamenki.</item> <item quantity="few">Zaporka nije dovoljno jaka. Upotrijebite najmanje %1$d znaka i koristite kombinaciju slova i znamenki.</item> <item quantity="other">Zaporka nije dovoljno jaka. Upotrijebite najmanje %1$d znakova i koristite kombinaciju slova i znamenki.</item> </plurals>
+    <string name="fui_accessibility_logo">Logotip aplikacije</string>
+    <string name="fui_auto_verified">Telefonski je broj automatski potvrđen</string>
+    <string name="fui_button_text_save">Spremi</string>
+    <string name="fui_button_text_send">Pošalji</string>
+    <string name="fui_cancel">Odustani</string>
+    <string name="fui_confirm_recovery_body">Slijedite upute za ponovno postavljanje zaporke koje smo poslali na e-adresu %1$s.</string>
+    <string name="fui_continue">Nastavi</string>
+    <string name="fui_continue_phone_login">Nastavi</string>
+    <string name="fui_email_account_creation_error">Registracija računa putem e-adrese nije uspjela</string>
+    <string name="fui_email_hint">E-adresa</string>
+    <string name="fui_email_link_confirm_email_header">Potvrdite e-adresu</string>
+    <string name="fui_email_link_confirm_email_message">Za nastavak prijave potvrdite e-adresu</string>
+    <string name="fui_email_link_cross_device_linking_text">Izvorno ste namjeravali povezati %1$s račun sa svojim računom e-pošte, no otvorili ste vezu na drugom uređaju na kojem niste prijavljeni.\n\nAko i dalje želite povezati svoj %1$s račun, otvorite vezu na uređaju na kojem ste pokrenuli postupak prijave. U suprotnom dodirnite Nastavi da biste se prijavili na ovom uređaju.</string>
+    <string name="fui_email_link_cross_device_sign_in_button_text">Prijava putem adrese %1$s</string>
+    <string name="fui_email_link_different_anonymous_user_header">Sesija je završila</string>
+    <string name="fui_email_link_different_anonymous_user_message">Sesija povezana s tim zahtjevom za prijavu istekla je ili je uklonjena.</string>
+    <string name="fui_email_link_dismiss_button">Odbaci</string>
+    <string name="fui_email_link_email_sent">E-poruka za prijavu s dodatnim uputama poslana je na adresu %1$s. Provjerite e-poštu da biste dovršili prijavu.</string>
+    <string name="fui_email_link_header">E-poruka za prijavu poslana\n</string>
+    <string name="fui_email_link_invalid_link_header">Prijava se ne može dovršiti</string>
+    <string name="fui_email_link_invalid_link_message">Kôd radnje nije važeći. Do toga može doći ako je kôd oštećen, istekao ili je već upotrijebljen.</string>
+    <string name="fui_email_link_resend">Pošalji ponovo</string>
+    <string name="fui_email_link_trouble_getting_email_header">Imate poteškoće s primanjem e-poruke?</string>
+    <string name="fui_email_link_trouble_getting_email_resend_solution">Ako se problem ne riješi pomoću koraka iznad, možete ponovo poslati e-poruku. Time će se deaktivirati veza u ranijoj e-poruci.</string>
+    <string name="fui_email_link_trouble_getting_possible_fixes">Isprobajte ova uobičajena rješenja:\n\u2022 Provjerite je li e-poruka filtrirana ili označena kao neželjena pošta.\n\u2022 Provjerite internetsku vezu.\n\u2022 Provjerite jeste li točno napisali e-adresu.\n\u2022 Provjerite ima li dovoljno prostora u vašem pretincu pristigle pošte ili je došlo do drugih problema povezanih s postavkama pretinca pristigle pošte.\n</string>
+    <string name="fui_email_link_wrong_device_header">Pronađen je novi uređaj ili preglednik.</string>
+    <string name="fui_email_link_wrong_device_message">Pokušajte otvoriti vezu s onog uređaja ili preglednika u kojem ste započeli postupak prijave.</string>
+    <string name="fui_enter_confirmation_code">Unesite 6-znamenkasti kôd koji smo poslali na broj</string>
+    <string name="fui_error_email_does_not_exist">Ta e-adresa ne pripada postojećem računu</string>
+    <string name="fui_error_invalid_password">Pogrešna zaporka.</string>
+    <string name="fui_error_quota_exceeded">Došlo je do problema s potvrdom vašeg telefonskog broja</string>
+    <string name="fui_error_session_expired">Kôd više nije važeći</string>
+    <string name="fui_error_too_many_attempts">Taj telefonski broj upotrijebljen je previše puta</string>
+    <string name="fui_error_unknown">Došlo je do nepoznate pogreške
